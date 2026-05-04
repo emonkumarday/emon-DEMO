@@ -8,6 +8,6 @@ This is my 2nd day in GitHub
 I am learning something.
 <h1>Kumar</h1>
 <br>
-Uh Are KNOW somethings ?
+Uh Are KNOW somethings ?<br>
 This is my 3rd Day in GitHUb
-CSS
+<br>CSS
